@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Computer Calculator</string>
+    <string name="lblBudget">Budget ($)</string>
+    <string name="lblMemory">Memory</string>
+    <string name="lbl2GB">2GB</string>
+    <string name="lbl4GB">4GB</string>
+    <string name="lbl8GB">8GB</string>
+    <string name="lbl16GB">16GB</string>
+    <string name="lbl250GB">250GB</string>
+    <string name="lbl500GB">500GB</string>
+    <string name="lbl750GB">750GB</string>
+    <string name="lbl1TB">1TB</string>
+    <string name="lblStorgae">Storage</string>
+    <string name="lblAcc">Accessories</string>
+    <string name="lblMouse">Mouse</string>
+    <string name="lblFlashDrive">Flash Drive</string>
+    <string name="lblCoolingPad">Cooling Pad</string>
+    <string name="lblCarryingCase">Carrying Case</string>
+    <string name="lblTip">Tip %</string>
+    <string name="lbl15">15%</string>
+    <string name="lblDelivery">Delivery</string>
+    <string name="lblCalculate">Calculate</string>
+    <string name="lblReset">Reset</string>
+    <string name="lblStatus">Your Status :</string>
+    <string name="enter_Budget" />
+    <string name="budget_hint">Enter dollar amount</string>
+    <string name="switch_delivery">Delivery</string>
+
+
+</resources>
